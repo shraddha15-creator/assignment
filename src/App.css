@@ -18,16 +18,3 @@
   margin: 2rem;
 }
 
-.product-card{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid rgb(221, 219, 219);
-}
-
-.product-img{
-  width: 17rem;
-  height: 17rem;
-  object-fit: scale-down;
-}
